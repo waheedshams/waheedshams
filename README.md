@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waheed Shams
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Waheed Shams
 ====================================================================================================================================
 
-Front-end developer and designer
---------------------------------
-
+<H2> About Me </h2>
+<P>
+I'm a passionate web developer who loves solving problems and mastering new technologies. Most importantly, i enjoy bringing my talents, knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.</p>
 *   🌍  I'm based in Afghanistan
 *   ✉️  You can contact me at [waheedshams200145@gmail.com](mailto:waheedshams200145@gmail.com)
 *   🧠  I'm learning A new framework
