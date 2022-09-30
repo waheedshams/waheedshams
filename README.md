@@ -4,10 +4,10 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 <H2> About Me </h2>
 <P>
 I'm a passionate web developer who loves solving problems and mastering new technologies. Most importantly, i enjoy bringing my talents, knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.</p>
-*   🌍  I'm based in Afghanistan
-*   ✉️  You can contact me at [waheedshams200145@gmail.com](mailto:waheedshams200145@gmail.com)
-*   🧠  I'm learning A new framework
-*   🤝  I'm open to collaborating on Interesting projects 
+*   🌍  I'm based in Afghanistan <br />
+*   ✉️  You can contact me at [waheedshams200145@gmail.com] <br />
+*   🧠  I'm currently learning JavaScript <br />
+*   🤝  I'm open to collaborating on Interesting projects that will help me learn and grow as a dev <br />
 
 ###Skills 
 
