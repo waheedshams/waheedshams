@@ -1,7 +1,9 @@
 ### Hi there, I'm [Waheed khan](https://waheedshams.github.io) 👋
 <H2> About Me </h2>
 <P>
-I'm a passionate web developer who loves solving problems and mastering new technologies. Most importantly, i enjoy bringing my talents, knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.</p>
+"I am a passionate and skilled web developer who is always eager to take on new challenges and learn new technologies. I thrive in a collaborative environment where I can share my expertise and skills to help others succeed. As a full-stack developer, I am capable of building web applications from start to finish, which makes me a valuable asset to any team. If you're looking for a web developer who is not only technically proficient but also has excellent communication skills and a positive attitude, You've found me!"
+
+</p>
 *   🌍  I'm based in Afghanistan <br />
 *   ✉️  You can contact me at [waheedshams200145@gmail.com] <br />
 *   🧠  I'm currently learning JavaScript <br />
