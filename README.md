@@ -1,6 +1,5 @@
 ### Hi there, I'm [Waheed khan](https://waheedshams.github.io) 👋
-==========================================================================================
-
+=======================================================================================
 <H2> About Me </h2>
 <P>
 I'm a passionate web developer who loves solving problems and mastering new technologies. Most importantly, i enjoy bringing my talents, knowledge and energy to a team setting where we can focus on building cool stuff and helping each other succeed.</p>
