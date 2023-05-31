@@ -1,4 +1,4 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Waheed Khan 
+### Hi there, I'm [Waheed khan](https://waheedshams.github.io) 👋
 ====================================================================================================================================
 
 <H2> About Me </h2>
@@ -9,7 +9,7 @@ I'm a passionate web developer who loves solving problems and mastering new tech
 *   🧠  I'm currently learning JavaScript <br />
 *   🤝  I'm open to collaborating on Interesting projects that will help me learn and grow as a dev <br />
 
-Skills: 
+## Skills: 
 <p></p>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
