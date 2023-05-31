@@ -1,4 +1,4 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Waheed Khan
+Hi there! I'm Waheed Khan [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 <H2> About Me </h2>
@@ -26,5 +26,9 @@ I'm a passionate web developer who loves solving problems and mastering new tech
 
 <p align="left">
  <a href="https://www.linkedin.com/in/Waheed khan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
- <a href="https://www.twitter.com/MrCpt23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>                         
+ <a href="https://www.twitter.com/MrCpt23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> 
+ 
+ 
+ [![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheedshams)](https://github.com/waheedshams/github-readme-stats)
+
                       
