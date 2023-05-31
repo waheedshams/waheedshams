@@ -9,7 +9,7 @@ I'm a passionate web developer who loves solving problems and mastering new tech
 *   🧠  I'm currently learning JavaScript <br />
 *   🤝  I'm open to collaborating on Interesting projects that will help me learn and grow as a dev <br />
 
-###Skills 
+Skills: 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -22,7 +22,7 @@ I'm a passionate web developer who loves solving problems and mastering new tech
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
 
-###Socials
+Socials:
 
 <p align="left">
  <a href="https://www.linkedin.com/in/Waheed khan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
