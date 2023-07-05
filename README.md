@@ -1,4 +1,4 @@
-### Hi there, I'm [Waheed khan](https://waheedshams.github.io) 👋
+### Hi there, I'm [Waheed Shams](https://waheedshams.github.io) 👋
 <H2> About Me </h2>
 <P>
 "I am a passionate and skilled web developer who is always eager to take on new challenges and learn new technologies. I thrive in a collaborative environment where I can share my expertise and skills to help others succeed. If you're looking for a web developer who is not only technically proficient but also has excellent communication skills and a positive attitude, You've found me!"
