@@ -6,7 +6,7 @@
 </p>
 *   🌍  I'm based in Afghanistan <br />
 *   ✉️  You can contact me at waheedshams200145@gmail.com <br />
-*   🧠  I'm currently learning JavaScript <br />
+*   🧠  I'm currently learning React <br />
 *   🤝  I'm open to collaborating on Interesting projects that will help me learn and grow as a dev <br />
 
 ## Skills: 
